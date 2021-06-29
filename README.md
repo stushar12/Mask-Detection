@@ -16,17 +16,17 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 
 ## Face Mask Detection Use Case:
 
-![Screenshot](Face_Mask_Detection_Usecase.png)
+![Screenshot](images/Face_Mask_Detection_Usecase.png)
 
 
 ## Face Mask Detection Architecture:
 
-![Screenshot](Face_Mask_Detection.png)
+![Screenshot](images/Face_Mask_Detection.png)
 
 
 ## Face Mask Detection Module Heirarchy Diagram:
 
-![Screenshot](hierarchy.png)
+![Screenshot](images/hierarchy.png)
 
 
 # Model Results:
@@ -35,24 +35,24 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 
 ![Screenshot](images/accuracy.png)
 
-![Screenshot](loss.png)
+![Screenshot](images/loss.png)
 
-![Screenshot](cm.png)
+![Screenshot](images/cm.png)
 
 
 # Outputs:
 
 ## Non real-time:
 
-![Screenshot](masked1.png)
+![Screenshot](images/masked1.png)
 
-![Screenshot](unmasked1.png)
+![Screenshot](images/unmasked1.png)
 
 ## Real-time:
 
-![Screenshot](mask.png)
+![Screenshot](images/mask.png)
 
-![Screenshot](unmask.png)
+![Screenshot](images/unmask.png)
 
 
 
