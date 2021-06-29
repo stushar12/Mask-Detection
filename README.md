@@ -33,7 +33,7 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 
 ## Face Mask Detection Model Training Summary:
 
-![Screenshot](accuracy.png)
+![Screenshot](images/accuracy.png)
 
 ![Screenshot](loss.png)
 
