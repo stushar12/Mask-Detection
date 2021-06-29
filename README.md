@@ -56,6 +56,11 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 
 
 
+## Improvements:
 
+1) UI Interface
+2) Deployment
+3) Fault Tolerant
+4) Scalability
 
 
