@@ -48,7 +48,7 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 
 ![Screenshot](images/unmasked1.png)
 
-## Real-time:
+## Real-time(Video):
 
 ![Screenshot](images/mask.png)
 
