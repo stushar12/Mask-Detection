@@ -1,4 +1,4 @@
-# Mask-Detection
+# Quarantine Project : Real time face mask detector
 
 Mask Detection using OpenCV and Deep Learning
 
